@@ -1,6 +1,4 @@
 streamlit
 pandas
 mysql-connector-python
-datetime
-os
 python-dotenv
